@@ -1,4 +1,4 @@
-package VaLidParentheses_20_3_3;
+package ValidParentheses_20_3_3;
 
 import java.util.Stack;
 

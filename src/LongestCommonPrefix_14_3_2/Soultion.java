@@ -1,4 +1,4 @@
-package LongestCommonPrefix;
+package LongestCommonPrefix_14_3_2;
 
 public class Soultion {
     public String longestCommonPrefix(String[] strs) {
