@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11352e9e-6ac0-4a5f-a844-a2df7ef83132" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CountAndSay_38_3_6/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaximumSubarray_53_3_6/Soulution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddBinary_67_3_7/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LengthOfLastWord_58_3_7/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PlusOne_66_3_7/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,33 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RomanToInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RomanToInteger_13_2_28/RomanToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="description" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/description">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="9" selection-start-column="9" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RemoveDuplicates.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray_26_3_5/RemoveDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,7 +47,7 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SearchInsertPosition_35_3_5/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
+            <state relative-caret-position="713">
               <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
@@ -83,25 +57,52 @@
         <entry file="file://$PROJECT_DIR$/src/CountAndSay_38_3_6/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="248">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Soulution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Soulution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MaximumSubarray_53_3_6/Soulution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="81" column="8" lean-forward="true" selection-start-line="81" selection-start-column="8" selection-end-line="91" selection-end-column="19" />
+            <state relative-caret-position="2821">
+              <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/Solution2.java">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LengthOfLastWord_58_3_7/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="310">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PlusOne_66_3_7/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AddBinary_67_3_7/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="26" column="39" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="26" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -129,7 +130,6 @@
         <option value="$PROJECT_DIR$/src/LongestCommonPrefix_14_3_2/Soultion.java" />
         <option value="$PROJECT_DIR$/src/VaLidParentheses_20_3_3/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/VaLidParentheses_20_3_3/description" />
-        <option value="$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/ListNode.java" />
         <option value="$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/Solution.java" />
         <option value="$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/Solution2.java" />
         <option value="$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/description" />
@@ -140,6 +140,11 @@
         <option value="$PROJECT_DIR$/src/SearchInsertPosition_35_3_5/Solution.java" />
         <option value="$PROJECT_DIR$/src/CountAndSay_38_3_6/Solution.java" />
         <option value="$PROJECT_DIR$/src/MaximumSubarray_53_3_6/Soulution.java" />
+        <option value="$PROJECT_DIR$/src/LengthOfLastWord_58_3_7/a.java" />
+        <option value="$PROJECT_DIR$/src/LengthOfLastWord_58_3_7/Solution.java" />
+        <option value="$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/PlusOne_66_3_7/Solution.java" />
+        <option value="$PROJECT_DIR$/src/AddBinary_67_3_7/Solution.java" />
       </list>
     </option>
   </component>
@@ -153,19 +158,19 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="46" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -183,24 +188,21 @@
               <item name="LeetCodeEveryday" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeEveryday" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="CountAndSay_38_3_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCodeEveryday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCodeEveryday" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MaximumSubarray_53_3_6" type="462c0819:PsiDirectoryNode" />
+              <item name="AddBinary_67_3_7" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,12 +268,14 @@
       <workItem from="1551698831549" duration="4771000" />
       <workItem from="1551751725582" duration="4057000" />
       <workItem from="1551786097880" duration="4914000" />
-      <workItem from="1551861726691" duration="4673000" />
+      <workItem from="1551861726691" duration="4796000" />
+      <workItem from="1551938354850" duration="1630000" />
+      <workItem from="1551940015041" duration="2617000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29111000" />
+    <option name="totallyTimeSpent" value="33481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -287,10 +291,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3375796" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1507431" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.27132195" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2228145" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -319,34 +323,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/description">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-start-column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray_26_3_5/RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RomanToInteger_13_2_28/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
@@ -596,13 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/description">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -641,7 +610,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SearchInsertPosition_35_3_5/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
+        <state relative-caret-position="713">
           <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
@@ -649,14 +618,43 @@
     <entry file="file://$PROJECT_DIR$/src/CountAndSay_38_3_6/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/LengthOfLastWord_58_3_7/a.java" />
     <entry file="file://$PROJECT_DIR$/src/MaximumSubarray_53_3_6/Soulution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="81" column="8" lean-forward="true" selection-start-line="81" selection-start-column="8" selection-end-line="91" selection-end-column="19" />
+        <state relative-caret-position="2821">
+          <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LengthOfLastWord_58_3_7/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists_21_3_4/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PlusOne_66_3_7/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AddBinary_67_3_7/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="26" selection-end-column="39" />
         </state>
       </provider>
     </entry>
