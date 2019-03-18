@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11352e9e-6ac0-4a5f-a844-a2df7ef83132" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LinkedListCycle_141_3_18/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListCycle_141_3_18/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MinStack_155_3_18/MinStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConvertSortedArrayToBinarySearchTree_108_3_17/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConvertSortedArrayToBinarySearchTree_108_3_17/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,33 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BalancedBinaryTree_110_3_13/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MinumumDepthOfBinaryTree_111_3_14/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MinumumDepthOfBinaryTree_111_3_14/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="30" column="26" selection-start-line="28" selection-start-column="8" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AddTwoNumbers_2_3_14/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,26 +56,61 @@
       <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PathSum_112_3_17/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1000">
+            <state relative-caret-position="1333">
               <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PascalTriangle_118_3_17/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            <state relative-caret-position="628">
+              <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BalancedBinaryTree_110_3_13/TreeNode.java">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SingleNumber_136_3_18/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="961">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="31" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedListCycle_141_3_18/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LinkedListCycle_141_3_18/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinStack.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MinStack_155_3_18/MinStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+              <folding>
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,6 +175,10 @@
         <option value="$PROJECT_DIR$/src/PathSum_112_3_17/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/PathSum_112_3_17/Solution.java" />
         <option value="$PROJECT_DIR$/src/PascalTriangle_118_3_17/Solution.java" />
+        <option value="$PROJECT_DIR$/src/SingleNumber_136_3_18/Solution.java" />
+        <option value="$PROJECT_DIR$/src/LinkedListCycle_141_3_18/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/LinkedListCycle_141_3_18/Solution.java" />
+        <option value="$PROJECT_DIR$/src/MinStack_155_3_18/MinStack.java" />
       </list>
     </option>
   </component>
@@ -177,9 +191,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-121" />
-    <option name="y" value="227" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -191,6 +205,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,6 +224,18 @@
               <item name="LeetCodeEveryday" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCodeEveryday" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedListCycle_141_3_18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeEveryday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeEveryday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MinStack_155_3_18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCodeEveryday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeEveryday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PascalTriangle_118_3_17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -216,13 +245,16 @@
               <item name="PascalTriangle_118_3_17" type="462c0819:PsiDirectoryNode" />
               <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
+            <path>
+              <item name="LeetCodeEveryday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCodeEveryday" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SingleNumber_136_3_18" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -324,11 +356,12 @@
       <workItem from="1552741459146" duration="1241000" />
       <workItem from="1552798482656" duration="1305000" />
       <workItem from="1552803608617" duration="93000" />
+      <workItem from="1552899192941" duration="4911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57694000" />
+    <option name="totallyTimeSpent" value="62605000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -340,7 +373,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-121" y="227" width="1936" height="1096" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32908705" />
@@ -350,26 +384,26 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32908705" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32908705" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32908705" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.29511678" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.26918977" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2153518" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32908705" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,28 +418,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RomanToInteger_13_2_28/RomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RomanToInteger_13_2_28/description">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Roman.java" />
     <entry file="file://$PROJECT_DIR$/src/RomanToInteger_13_2_28/RomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
@@ -629,9 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="775">
           <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -694,15 +703,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PathSum_112_3_17/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
+        <state relative-caret-position="1333">
           <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PascalTriangle_118_3_17/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        <state relative-caret-position="628">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SingleNumber_136_3_18/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="961">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListCycle_141_3_18/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LinkedListCycle_141_3_18/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinStack_155_3_18/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
