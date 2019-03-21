@@ -13,4 +13,4 @@ Write a SQL query to get the second highest salary from the Employee table.
 
 */
 
-select(select DISTINCT Salary from Employee ORDER By Salary DESC limit 1 offset 1)
+select(select DISTINCT Salary from Employee ORDER By Salary DESC limit 1 offset 1) as SecondHighSalary
