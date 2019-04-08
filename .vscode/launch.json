@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "ReverseVowelsOfASttring_345_4_8.Solution",
+            "projectName": "LeetCodeEveryday_1b96886c"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MyStack",
             "request": "launch",
             "mainClass": "ImplementStackUsingQueue_225_3_27.MyStack",
