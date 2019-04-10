@@ -32,10 +32,4 @@ public class Solution {
         }
         return newHead;
     }
-    /**
-     * cur
-     */
-    public ListNode reverseList1(ListNode head){
-
-    }
 }

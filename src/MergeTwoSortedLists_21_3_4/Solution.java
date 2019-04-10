@@ -1,9 +1,6 @@
 package MergeTwoSortedLists_21_3_4;
 
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.LinkedList;
-import java.util.List;
+
 
 public class Solution {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
