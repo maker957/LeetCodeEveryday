@@ -4,6 +4,13 @@
             "type": "java",
             "name": "CodeLens (Launch) - Solution",
             "request": "launch",
+            "mainClass": "IntegerToRoman_12_4_11.Solution",
+            "projectName": "LeetCodeEveryday_1b96886c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
             "mainClass": "ReverseVowelsOfASttring_345_4_8.Solution",
             "projectName": "LeetCodeEveryday_1b96886c"
         },
