@@ -24,8 +24,8 @@ class Solution {
                     k--;
                     while (j < k && nums[j] == nums[j - 1]) //左指针的下一个值是否重复
                         j++;
-                    while (j < k && nums[k] == nums[k - 1]) //右指针的值是否重复
-                        k++;
+                    while (j < k && nums[k] == nums[k + 1]) //右指针的值是否重复
+                        k--;
 
                 } else if (nums[j] + nums[k] > target) {  //大
                     k--;
