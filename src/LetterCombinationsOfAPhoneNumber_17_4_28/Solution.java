@@ -25,6 +25,7 @@ class Solution {
             /**
              * getNumericValue返回指定Unicode字符表示的int值
              * x 为
+             * 
              *  */
             int x = Character.getNumericValue(digits.charAt(i)); 
 
